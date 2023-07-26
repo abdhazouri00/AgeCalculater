@@ -13,7 +13,13 @@
     --Offblack: hsl(0, 0%, 8%);
 }
 
-body {
+body{
+
+    margin: 0;
+    padding: 0;
+}
+
+.body {
 
     display: flex;
     justify-content: center; 
